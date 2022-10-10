@@ -1,6 +1,7 @@
 # NRIC_guesser
 This guess your nric with your birthday
 
+You can test this script on [google colab](https://colab.research.google.com/), it is self contained.
 
 # How does this differ from other NRIC guesser?
 It uses singstat data to make an educated guess.
